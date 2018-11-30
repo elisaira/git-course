@@ -5,3 +5,5 @@ Modificação
 Teste git diff
 
 Teste checkout
+
+Teste reset
